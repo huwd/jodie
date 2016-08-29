@@ -1,19 +1,19 @@
 %article#work.panel.secondary
   .image
-    %img{:alt => "", "data-position" => "center center", :src => "images/pic02.jpg"}/
+    %img{:alt => "", "data-position" => "center center", :src => "/images/pic02.jpg"}/
   .content
     %ul.actions.spinX
       %li
         %a.button.small.back{:href => "#home"}
-          = t(:back_button)
+          = I18n.t(:back_button)
     .inner
       %header
         %h2
-          = t(:work_title)
+          = I18n.t(:work_title)
         %p
-          = t(:work_subtitle)
+          = I18n.t(:work_subtitle)
 
       %p
-        = t(:work_paragraph1)
+        = I18n.t(:work_paragraph1)
       %p
-        = t(:work_paragraph2)
+        = I18n.t(:work_paragraph2)

@@ -1,29 +1,29 @@
 %article#contact.panel.secondary
   .image
-    %img{:alt => "", "data-position" => "bottom center", :src => "images/pic04.jpg"}/
+    %img{:alt => "", "data-position" => "bottom center", :src => "/images/pic04.jpg"}/
   .content
     %ul.actions.spinX
       %li
         %a.button.small.back{:href => "#home"}
-          = t(:back_button)
+          = I18n.t(:back_button)
     .inner
       %header
         %h2
-          = t(:contact_title)
+          = I18n.t(:contact_title)
       %form{:action => "#", :method => "post"}
         .field.half.first
           %label{:for => "name"}
-            = t(:form_name_input)
+            = I18n.t(:form_name_input)
           %input#name{:name => "name", :type => "text"}/
         .field.half
           %label{:for => "email"}
-            = t(:form_email_input)
+            = I18n.t(:form_email_input)
           %input#email{:name => "email", :type => "text"}/
         .field
           %label{:for => "message"}
-            = t(:form_message_input)
+            = I18n.t(:form_message_input)
           %textarea#message{:name => "message", :rows => "5"}
         %ul.actions
           %li
             %a.button.submit{:href => ""}
-              = t(:input_button_submit)
+              = I18n.t(:input_button_submit)

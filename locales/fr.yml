@@ -8,13 +8,41 @@ fr:
 
   work_title: "work_title"
   work_subtitle: "work_subtitle"
-  work_paragraph1: "work_paragraph1"
-  work_paragraph2: "work_paragraph2"
+  work_paragraph1: "Vous avez envie de progresser en anglais ? Vous avez des connaissances de bases,
+                    mais quand il s'agit de vous exprimer clairement, sans inquiétudes, vous avez du
+                    mal ? Peut-être que vous vous en sortez bien, mais vous sentez que vous avez atteint
+                    un plateau dans votre apprentissage ? Ou encore, vous vous débrouillez bien, mais
+                     maintenant il vous faut un anglais plus précis, plus spécialisé pour votre métier,
+                     ou vos études?"
 
-  about_title: "about_title"
-  about_subtitle: "about_subtitle"
-  about_paragraph1: "about_paragraph1"
-  about_paragraph2: "about_paragraph2"
+  work_paragraph2: "Choisir des cours d'anglais par Skype vous permettra d'améliorer votre maîtrise et
+                  votre compréhension de la langue d'une manière qui vous convient complètement. Les
+                  cours sont adaptés précisement à vos besoins spécifiques, à vos intérêts et à vos
+                  objectifs. Vous pouvez progresser sans même quitter votre bureau ou votre domicile.
+
+                  Prenez en main votre apprentissage, à vous de jouer!"
+
+  about_title: "A propos"
+  about_subtitle: "Bonjour! Je m'appelle Jodie et je serai votre formatrice d'anglais. Nous se ferons
+                  connaissance pendant nos cours, bien évidemment, mais pour vous donner une petite idée
+                  de qui je suis..."
+  about_paragraph1:  "Je suis née en Grande Bretagne, sur une ferme à côte de la mer au Pays de Galles.
+                      Toujours interessée par des langues et les linguistiques, j'ai fait une licence en
+                      langues européennes à l'Université d'Aberystwyth (un nom de ville très gallois...
+                      et vous pensiez que la prononciation anglaise était difficile!). Pendant mes études,
+                      j'ai obtenu un certifiat de TEFL (teaching English as a second language) et ensuite
+                      j'ai passé un an à l'étranger où j'ai enseigné l'anglais, et où d'avantage j'ai découvert
+                      que cela me plaisait énormemment. Je suis quand même rentrée chez moi pour finir mes
+                      études, mais depuis j'ai voyagé de Lyon à Berlin, à La Rochelle et finalement à Poitiers
+                      (où j'habite maintenant) tout en acquérant une solide expérience sur tous les niveaux du
+                      CECRL (cadre européen commun de référence pour les langues), ainsi que sur différents modes
+                      de travail, du cours individuel au cours de groupe au cours par Skype."
+
+  about_paragraph2:  "En tant que votre professeur, je vous accompagnerai au fur et à mesure de votre progression.
+                      Je serai là pour vous conseiller et vous guider tout au long de votre développement, y compris
+                      pour faire face à d'éventuels problèmes et pour répondre à vos questions.
+
+                      A bientôt, j'espère!"
 
   contact_title: "contact_title"
   form_name_input: "form_name_input"

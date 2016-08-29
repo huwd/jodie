@@ -47,7 +47,7 @@
 					.addClass('inactive')
 					.hide();
 
-			// Fix images.
+			// Fix /images/.
 				$panels.each(function() {
 
 					var	$this = $(this),
