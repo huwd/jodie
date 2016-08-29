@@ -1,11 +1,22 @@
----
-title: Page Title
----
+/ Wrapper
+#wrapper
+  / Home
+  = partial "partials/home"
 
-.delete-me
-  .container
-    %h1 thoughtbot Middleman Starter
-    %p
-      You're all set!
-      <a href="http://github.com/thoughtbot/proteus-middleman">Let's get started</a>
-      building your prototype.
+  / Work
+  = partial "partials/work"
+
+  / About
+  = partial "partials/about"
+
+  / Contact
+  = partial "partials/contact"
+
+  / Elements
+  = partial "partials/elements"
+
+  / Footer
+  = partial "partials/footer"
+
+/ Scripts
+= partial "partials/scripts"

@@ -1,12 +1,13 @@
 activate :directory_indexes
 activate :autoprefixer
+activate :i18n
 
 set :relative_links, true
-set :css_dir, "assets/stylesheets"
-set :js_dir, "assets/javascripts"
-set :images_dir, "assets/images"
-set :fonts_dir, "assets/fonts"
-set :layout, "layouts/application"
+set :css_dir, 'assets/stylesheets'
+set :js_dir, 'assets/javascripts'
+set :images_dir, 'assets/images'
+set :fonts_dir, 'assets/fonts'
+set :layout, 'layouts/application'
 
 page '/*.xml', layout: false
 page '/*.json', layout: false

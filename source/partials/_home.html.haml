@@ -1,0 +1,32 @@
+%article#home.panel.special
+  .image
+    %img{:alt => "", "data-position" => "center center", :src => "images/pic01.jpg"}/
+  .content
+    .inner
+      %header
+        %h1 Jodie Jones
+        %p
+          = t(:strapline1)
+          %br/
+          = t(:strapline2)
+      %nav#nav
+        %ul.actions.vertical.special.spinY
+          %li
+            %a.button{:href => "#work"}
+              = t(:work_button)
+          %li
+            %a.button{:href => "#about"}
+              = t(:about_button)
+          %li
+            %a.button{:href => "#contact"}
+              = t(:contact_button)
+      %ul.icons
+        %li
+          %a.icon.fa-twitter{:href => "#"}
+            %span.label Twitter
+        %li
+          %a.icon.fa-facebook{:href => "#"}
+            %span.label Facebook
+        %li
+          %a.icon.fa-envelope{:href => "#"}
+            %span.label Email

@@ -1,0 +1,23 @@
+---
+fr:
+  strapline1: "strapline1"
+  strapline2: "strapline2"
+  work_button: "work_button"
+  about_button: "about_button"
+  contact_button: "contact_button"
+
+  work_title: "work_title"
+  work_subtitle: "work_subtitle"
+  work_paragraph1: "work_paragraph1"
+  work_paragraph2: "work_paragraph2"
+
+  about_title: "about_title"
+  about_subtitle: "about_subtitle"
+  about_paragraph1: "about_paragraph1"
+  about_paragraph2: "about_paragraph2"
+
+  contact_title: "contact_title"
+  form_name_input: "form_name_input"
+  form_email_input: "form_email_input"
+  form_message_input: "form_message_input"
+  input_button_submit: "input_button_submit"

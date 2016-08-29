@@ -1,0 +1,18 @@
+%article#about.panel.secondary
+  .image
+    %img{:alt => "", "data-position" => "center center", :src => "images/pic03.jpg"}/
+  .content
+    %ul.actions.spinX
+      %li
+        %a.button.small.back{:href => "#home"}
+          = t(:back_button)
+    .inner
+      %header
+        %h2
+        = t(:about_title)
+        %p
+          = t(:about_subtitle)
+      %p
+        = t(:about_paragraph1)
+      %p
+        = t(:about_paragraph2)

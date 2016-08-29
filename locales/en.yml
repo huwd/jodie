@@ -1,0 +1,27 @@
+---
+en:
+  page_title: "Jodie Jones | English Teacher"
+
+  strapline1: "English Teacher, Tutor, Business"
+  strapline2: "Children, Translation, other keywords"
+  work_button: "Tuition"
+  about_button: "About Jodie"
+  contact_button: "Contact"
+
+  work_title: "Work"
+  work_subtitle: "Magna feugiat lorem ipsum dolor veroeros sed adipiscing"
+  work_paragraph1: "Lorem ipsum dolor sit amet, magna etiam adipiscing elit. Vivamus in quam eu turpis venenatis euismod eget ac velit. Magna pharetra eleifend urna quis laoreet. Nullam quis urna iaculis metus ornare accumsan. Sed nunc lacus, lobortis nec ante sit amet."
+  work_paragraph2: "Vitae quis magna. Sed condimentum dui sed nunc dapibus dignissim. Sed at arcu gravida, vehicula massa ut, consectetur urna. Morbi eu venenatis turpis. In tincidunt pharetra etiam veroeros."
+
+  about_title: "About"
+  about_subtitle: "Magna feugiat lorem ipsum dolor veroeros sed adipiscing "
+  about_paragraph1: "Lorem ipsum dolor sit amet, magna etiam adipiscing elit. Vivamus in quam eu turpis venenatis euismod eget ac velit. Magna pharetra eleifend urna quis laoreet. Nullam quis urna iaculis metus ornare accumsan. Sed nunc lacus, lobortis nec ante sit amet."
+  about_paragraph2: "Vitae quis magna. Sed condimentum dui sed nunc dapibus dignissim. Sed at arcu gravida, vehicula massa ut, consectetur urna. Morbi eu venenatis turpis. In tincidunt pharetra etiam veroeros."
+
+  contact_title: "Contact"
+  form_name_input: "Name"
+  form_email_input: "Email"
+  form_message_input: "Message"
+  input_button_submit: "Send Message"
+
+  back_button: "back"
