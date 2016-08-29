@@ -22,7 +22,7 @@
   },
   "git": {
     "scripts": {
-      "pre-push": "surge --project ./ --domain jodie-jones.surge.sh"
+      "pre-push": "surge --project ./build/ --domain jodie-jones.surge.sh"
     }
   }
 }
